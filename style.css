@@ -1,1 +1,18 @@
+div {
+    border:10px solid darkorange;
+}
 
+h2 {
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+}
+
+p {
+    font-family :Arial;
+}
+
+img {
+    position: relative; 
+    top: 20px;
+}
